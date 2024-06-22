@@ -6,7 +6,7 @@ ultralytics
 deepface
 numpy==1.22.2
 transformers
-tensorflow==2.8.0
+tensorflow==2.11.1
 pydub
 basicsr
 facexlib
